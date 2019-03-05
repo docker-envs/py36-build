@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  py36:
+    build: .
+    image: mypy36
+
